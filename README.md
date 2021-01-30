@@ -1,2 +1,2 @@
-# Python-inicio
- Resolução de exercícios com python
+# Phyton-3-inicio-40h
+ Inicio em Phyton

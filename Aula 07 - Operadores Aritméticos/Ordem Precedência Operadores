@@ -1,0 +1,6 @@
+Ordem de Precedência dos Operadores:
+
+1º - () Parenteses.
+2º - ** Potencia
+3º - * / // % multiplicação, divisão, divisão inteira e resto da divisão... qual vier primeiro.
+4º - + - soma e subtração por ultimo.
